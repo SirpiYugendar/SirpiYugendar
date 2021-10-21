@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirpiYugendar
 - 👀 I'm from a non-CS background, but intrested in learning programming an start my career as a Software Engineer.
-- 🌱 I’m currently learning Java from basics.
+- 🌱 I’m currently doing CS50 and some other courses.
 - 📫 How to reach me sirpiyugendarr@gmail.com
 
 <!---
